@@ -10,3 +10,6 @@ Tools: Python · Pandas · Scikit-learn · XGBoost · Chart.js
 Data: NHTSA Fatality Analysis Reporting System (FARS) 2023 — 36,470 crash records
 
 Team Members: Jada Giddens, Austin Dinh, Tyler Yu
+
+
+[Airbag Deployment Failure Analysis.pdf](https://github.com/user-attachments/files/25545212/Airbag.Deployment.Failure.Analysis.pdf)
